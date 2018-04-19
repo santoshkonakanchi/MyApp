@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="list">
+        <item>Alberta</item>
+        <item>British Columbia</item>
+        <item>Manitoba</item>
+        <item>New Brunswick</item>
+        <item>Newfounder and Labrador</item>
+        <item>Novia Scotia</item>
+        <item>Ontario</item>
+        <item> Prince Edward Island</item>
+        <item>Quebec</item>
+        <item>Saskatchewan</item>
+        <item>Northwest Teritories</item>
+        <item>Nunavut</item>
+        <item>Yukon</item>
+    </string-array>
+
+    <!-- Strings related to login -->
+</resources>
